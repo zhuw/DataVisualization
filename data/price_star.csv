@@ -1,0 +1,317 @@
+categories,business_id,name,price_range,full_address,city,stars,Chinese
+"['Afghan', 'Indian', 'Pakistani', 'Restaurants']",saON8-nDZi5W64u1xGtmPA,Khyber Halal,1,"4030 N 24th StPhoenix, AZ 85016",Phoenix,4,FALSE
+"['Afghan', 'Indian', 'Pakistani', 'Restaurants']",TZhv0cOt0UHoORlG0I5JHg,Pak Afghan Halal Restaurant & Catering,2,"1638 N 40th StPhoenix, AZ 85008",Phoenix,4.5,FALSE
+"['Afghan', 'Pakistani', 'Indian', 'Restaurants']",rRsAuY4e9T5EscglUSRU6w,Tahoora Grill,2,"1638 N 40th StPhoenix, AZ 85008",Phoenix,4,FALSE
+"['Afghan', 'Restaurants']",mFcB-ohmJIi1xuZadKbuww,Zaytoon Kabob Bistro,2,"4929 W Ray RdChandler, AZ 85226",Chandler,3.5,FALSE
+"['Afghan', 'Restaurants']",pvMeUi5Lw2O5vIXg9_EvDg,Zaytoon Kabob Bistro,1,"4804 E Chandler BlvdSte 108Phoenix, AZ 85044",Phoenix,4,FALSE
+"['African', 'Caribbean', 'Restaurants']",mWTFbL-ilQiQ9iQwPnViQw,Fu Fu Cuisine,1,"3633 W Camelback RdSte 7Phoenix, AZ 85019",Phoenix,4,FALSE
+"['American (New)', 'Barbeque', 'Restaurants']",maF18Z12TB2L_bV9CAhNrA,Wings Express,1,"761 S Alma School RdMesa, AZ 85210",Mesa,3.5,FALSE
+"['American (New)', 'Barbeque', 'Restaurants']",rZbHg4ACfN3iShdsT47WKQ,Bobby Q,2,"8501 N 27th AvePhoenix, AZ 85051",Phoenix,4.5,FALSE
+"['American (New)', 'Buffets', 'Restaurants']",Vu8od1U-h5qqwj3Jf_Hnzg,Souper Salad,1,"2045 E Camelback RdPhoenix, AZ 85016",Phoenix,3.5,FALSE
+"['American (New)', 'Buffets', 'Tex-Mex', 'Restaurants']",giZS_d2r7hMyYXCjCpkZTg,Mission Grille,2,"Tempe Mission Palms Hotel60 E 5th StTempe, AZ 85281",Tempe,3,FALSE
+"['American (New)', 'Cafes', 'Latin American', 'Restaurants']",2n41w1fel0glITinZ25syQ,CafÄ? Oso,3,"3310 N 10th AvePhoenix, AZ 85013",Phoenix,4.5,FALSE
+"['American (New)', 'Cafes', 'Restaurants']",AaKlegu7gmOCD4rEESF76Q,Maizie's Cafe & Bistro,2,"4750 N Central AvePhoenix, AZ 85012",Phoenix,4,FALSE
+"['American (New)', 'Cafes', 'Restaurants']",eltTG6JOr9cg5FRAgGy8Jw,Phoenix Public Market Cafe,2,"14 E Pierce StPhoenix, AZ 85004",Phoenix,4,FALSE
+"['American (New)', 'Cafes', 'Restaurants']",g2On1JEPKrLm13Cwcr5MjA,Pony Express Cafe,1,"28170 N Alma School PkwyScottsdale, AZ 85262",Scottsdale,4,FALSE
+"['American (New)', 'Chicken Wings', 'Restaurants']",a12JKFiqBVyaUfTWNaAzQQ,ATL Wings,1,"70 W Warner RdSte 100Chandler, AZ 85225",Chandler,4,FALSE
+"['American (New)', 'Comfort Food', 'Restaurants']",vZDfvDkiBfWMigOrniuGnQ,The Liberty Kitchen,2,"3600 N 2nd AvePhoenix, AZ 85013",Phoenix,4.5,FALSE
+"['American (New)', 'Food Stands', 'Restaurants']",Dt8RITU4OmTbRaKKlZm_Pg,Sunshine and Spice,2,"2303 N 44th StPhoenix, AZ 85008",Phoenix,4,FALSE
+"['American (New)', 'French', 'Restaurants']",QBOl1IrpvzEpxD9hO3gMwg,Nouveau Bistro,2,"3395 W Chandler BlvdChandler, AZ 85226",Chandler,4,FALSE
+"['American (New)', 'French', 'Restaurants']",ou5yH_kNEiN8J_GTSGYSvg,98 South,2,"98 S San Marcos PlChandler, AZ 85225",Chandler,3.5,FALSE
+"['American (New)', 'French', 'Restaurants']",aUHHfCiFtGhN5R6KXCsBKw,Fenix Eatery & Bar,2,"3943 E Camelback RdPhoenix, AZ 85018",Phoenix,3.5,FALSE
+"['American (New)', 'French', 'Restaurants']",7lp13T_FUmX1XjU2wen_qw,Razz's Restaurant & Catering,3,"10315 N Scottsdale RdScottsdale, AZ 85253",Scottsdale,4,FALSE
+"['American (New)', 'French', 'Restaurants']",NkTBJP2YOwUAUNzRqR2gJg,Bistro Provence,3,"8900 E Pinnacle Peak RdSte B1Scottsdale, AZ 85255",Scottsdale,4,FALSE
+"['American (New)', 'Mediterranean', 'Gluten-Free', 'Restaurants']",7eUFOcfxuXDdrHGVSp3_9A,Herb 'n Flavors,2,"1845 E Broadway RdTempe, AZ 85281",Tempe,4,FALSE
+"['American (New)', 'Mediterranean', 'Restaurants']",H0QkByri08NTgd8KEdyCsw,Extreme Pita,1,"777 S College AveTempe, AZ 85281",Tempe,2.5,FALSE
+"['American (New)', 'Mexican', 'Restaurants']",Q5ZD7ZAs96NAVblFDV476g,TQLA,2,"1840 S Val Vista DrMesa, AZ 85204",Mesa,3.5,FALSE
+"['American (New)', 'Mexican', 'Restaurants']",lQSMn_SAIy5aBEKkqRtVYw,Baja Loco Mesquite Grill & Cantina,1,"3222 E Indian School RdPhoenix, AZ 85018",Phoenix,4.5,FALSE
+"['American (New)', 'Mexican', 'Restaurants']",cdacUBBL2tDbDnB1EfhpQw,Cafe Carumba,2,"7303 E Indian School RdScottsdale, AZ 85251",Scottsdale,3.5,FALSE
+"['American (New)', 'Pizza', 'Restaurants']",VapdXuC8X-Q3T_wgA6yCAg,Pizza People Pub,2,"1326 N Central AvePhoenix, AZ 85004",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",ladc7jWsCaOlaErCDdnubA,Baja Fresh,1,"3450 W Chandler BlvdChandler, AZ 85226",Chandler,2,FALSE
+"['American (New)', 'Restaurants']",PBcsBfduHaCBVLsgVvAkJQ,Dennys,2,"7400 W Chandler BlvdChandler, AZ 85226",Chandler,2.5,FALSE
+"['American (New)', 'Restaurants']",VIIoBwWzSkxcD7gp9-i1pw,56 East Bar and Kitchen,2,"7131 W Ray RdChandler, AZ 85226",Chandler,3.5,FALSE
+"['American (New)', 'Restaurants']",iV7D7fHKb-bF9fCL_bEMtA,Cork Restaurant,3,"4991 S Alma School RdSte 101Chandler, AZ 85248",Chandler,4,FALSE
+"['American (New)', 'Restaurants']",RN5TVR5k8THsMGFjVbfYkA,Sautee,3,"4949 S Alma School RdChandler, AZ 85248",Chandler,3,FALSE
+"['American (New)', 'Restaurants']",OeDRfvftWBp3avCfWrQi1g,TGI Friday's,2,"2920 E Germann RdChandler, AZ 85286",Chandler,3,FALSE
+"['American (New)', 'Restaurants']",maB4VHseFUY2TmPtAQnB9Q,Majerle's Sports Grill,2,"Chandler Fashion Center3095 W Chandler BlvdChandler, AZ 85226",Chandler,3,FALSE
+"['American (New)', 'Restaurants']",Xi1AxyoKZ37PGzorOh9Ing,Ko'sin Restaurant,3,"5594 W Wildhorse Pass BlvdChandler, AZ 85226",Chandler,3.5,FALSE
+"['American (New)', 'Restaurants']",UBq0EyWQe42H0lrq0PXXqQ,Wienerschnitzel,1,"2100 N McQueen RdChandler, AZ 85225",Chandler,2,FALSE
+"['American (New)', 'Restaurants']",W_BdUVrELzhWya6aeFYoDg,Red White & Brew,2,"4580 S Gilbert RdChandler, AZ 85224",Chandler,4,FALSE
+"['American (New)', 'Restaurants']",0A3i-c0_V4temKZ4BK3r2w,Table 49,2,"4949 S Alma School RdChandler, AZ 85248",Chandler,3.5,FALSE
+"['American (New)', 'Restaurants']",lsF6bbPFM7USmiSIyOaCXA,Barrelhouse American Kitchen & Cocktails,2,"2050 N Alma School RdSte 8Chandler, AZ 85224",Chandler,4,FALSE
+"['American (New)', 'Restaurants']",djqa1yI7ul-ewJHhko5GIg,Earnest Restaurant,3,"4991 S Alma School RdSte 101Chandler, AZ 85248",Chandler,4,FALSE
+"['American (New)', 'Restaurants']",mMJVKgRNlsr0YrkUBGqfQw,Social Box Neighborhood Eatery,2,"1371 N Alma School RdChandler, AZ 85224",Chandler,3.5,FALSE
+"['American (New)', 'Restaurants']",cyeBcWOtZUypZOO-guTdDw,Wing's Express,1,"1449 E Main StMesa, AZ 85204",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",Vl1sL4Tz6nC054IWSQ4kiQ,Long John Silver's Seafood Shoppes,1,"313 S Power RdMesa, AZ 85206",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",0BScRHEa2lVBCY4spkhmvQ,Grille At Las Sendas Golf Club,3,"7555 E Eagle Crest DrMesa, AZ 85207",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",Oif-dEqMVS3ee_p5ZhYyqA,Village Inn,2,"6813 E Main StMesa, AZ 85207",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",LkUW-NhcFg21GV9IgiUw0A,S'Bistro,3,"124 W Main StMesa, AZ 85201",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",UOA5soaz7A1MLN7LJaDuYw,Bar Tepo,2,"1625 S Val Vista DriveMesa, AZ 85204",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",CEq1jgP-F6roehvSiv30dQ,de la Cruz Bistro,2,"10 W Main StMesa, AZ 85209",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",sRhfzx8P_VAdmofWMSPD3A,Cafe Laguna,1,"2235 S Power RdSte 120Mesa, AZ 85209",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",nlbZs9GkO_ZJk3qg9ZBSxw,Paradise Bakery and Cafe,2,"1946 S Signal Butte RdSte 109Mesa, AZ 85209",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",4YiayKmzqRao1UNb8Xh0Bw,On The Green Sports Grill,2,"801 S Power RdMesa, AZ 85206",Mesa,3.5,FALSE
+"['American (New)', 'Restaurants']",qh455klme9unowV-BQol7w,Paradise,2,"1749 W Main StMesa, AZ 85201",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",C51teWZIJIEGVYFTijaw_w,Chick-fil-A,1,"905 N Dobson RdMesa, AZ 85201",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",_jbeTDw6XSuvLaR1V_z8jw,Copper Plate An American Grill,2,"6033 S Sossaman RdMesa, AZ 85212",Mesa,3.5,FALSE
+"['American (New)', 'Restaurants']",rNVzF9mIIkbeie5nMydiyg,Paradise Bakery,1,"5835 S Sossaman RdMesa, AZ 85212",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",VL6ORdoe2aDo6Ys9w_Kdxw,The Patio At Las Sendas Golf Club,2,"7555 E Eagle Crest DrMesa, AZ 85207",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",42Xr9Id3Xsrht3weCYcDzA,Rochester's Family Dining & Sports Bar,1,"721 S  RochesterMesa, AZ 85206",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",M80LgyAZ-yXYDkCB74hyUw,Ihop,1,"917 N Dobson RdMesa, AZ 85201",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",cL2DV9djtFw7nT2kL_AuUQ,Chez Nappy,1,"1740 S Mesa DrMesa, AZ 85210",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",jn3OgTqiQIFymRA9U0PTfQ,Arizona Baseball Club Restaurant,2,"401 E Jefferson StPhoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",5-X03Zc0nN7U5eoe8uFUdw,Coronado Cafe,2,"2201 N 7th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",I4L_MJOZsnux3xCU2bLP8Q,Cranberry Hills Eatery & Catering,1,"3003 N Central AveSte 118Phoenix, AZ 85012",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",Ta-fY1c_E8qHBBDQGyxPkg,Bistro 24,2,"The Ritz-Carlton, Phoenix2401 East Camelback RoadPhoenix, AZ 85016",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",fVgrpVyp-nPLTac9YIjTug,T Cook's Restaurant,3,"Royal Palms Resort and Spa5200 E Camelback RdPhoenix, AZ 85018",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",adEJYiysRmK8eDqnHP9N6A,Carl's Jr 7091,1,"2343 E Bell RdPhoenix, AZ 85022",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",X_F-3w3Z1omxWpItnWDH9g,Let's DO Lunch,1,"2510 W Dunlap AveSte 160Phoenix, AZ 85021",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",i98vDwJCbC4RHvDo0_XQuw,Dennys,1,"2525 W Deer Valley RdPhoenix, AZ 85027",Phoenix,2,FALSE
+"['American (New)', 'Restaurants']",NWtC07BxIqQp76kugbvynA,5 & Diner Deer Valley,1,"20216 N 27th AvePhoenix, AZ 85027",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",m3-p0XIYBQdR4VzbHpUpXQ,Genie G's,1,"7349 W Indian School RdPhoenix, AZ 85033",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",nU1xvCBFBVkahDrZSoN2Rw,Denny's Restaurant,2,"1401 N 75th AvePhoenix, AZ 85043",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",fq3TCuBBaKtRnibcSoRHpQ,T.G.I. Friday's,2,"2501 W Happy Valley RdPhoenix, AZ 85027",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",TCqkBVN84Ek0oLmZGAX5xA,Lisa G Cafe and Wine Bar,2,"2337 N 7th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",Fn8hc8b3357nDJfFksdcbg,Zest - Spirited Dining,3,"4117 N 16th StPhoenix, AZ 85017",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",4waggbCK-MSE9dbIdSMfPA,Compass Arizona Grill,3,"The Hyatt Regency122 N Second StPhoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",eOug4Lp-b5-jrtkoLMQq2g,Circa 1900,3,"628 E Adams St.Phoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",Ydc74ermKp1L4fYOrPvzXw,Stoudemire's Downtown,2,"3 S 2nd StPhoenix, AZ 85004",Phoenix,2.5,FALSE
+"['American (New)', 'Restaurants']",RDX_MLThtKVPb22TvJh9rQ,7th Heaven Eatery,2,"2501 E Camelback RdPhoenix, AZ 85016",Phoenix,2.5,FALSE
+"['American (New)', 'Restaurants']",zG_wv69bsllw_PWhOmoAKQ,Tarbell's,3,"3213 E Camelback RdPhoenix, AZ 85018",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",_EdSQOkATuCtZ5y5A2m0rw,Arby's,1,"17031 N Tatum BlvdPhoenix, AZ 85032",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",uKSX1n1RoAzGq4bV8GPHVg,St. Francis Restaurant,2,"111 E Camelback RdPhoenix, AZ 85012",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",VXivZOUYeKBFFab9JVHOSA,The Market By Jennifer's Restaurant,2,"3603 E Indian School RdSte APhoenix, AZ 85018",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",4TqCyWoWmUpghIVAiSo--g,Basis New American,2,"410 E Thunderbird RdPhoenix, AZ 85022",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",VQTjhYGMIyqSRJHgHLFvjg,Sonoma Casual Dining,1,"25 W Van Buren StPhoenix, AZ 85003",Phoenix,2.5,FALSE
+"['American (New)', 'Restaurants']",3EEVGDngt4DEhoOQZIUNUw,Arcadia Farms Cafe,2,"1625 N Central AvePhoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",KoJ4jNSmqYbmKqcoh-2dNA,Arizona Roadhouse 66,2,"Sky Harbor International AirportB Terminal, Gates 1-14Phoenix, AZ 85073",Phoenix,2,FALSE
+"['American (New)', 'Restaurants']",K869zHqORZUhpbDOxsspuw,Wildberri,1,"401 E Bell RdSte 23Phoenix, AZ 85022",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",gY6AhCy22G9yFlAGu9vMFQ,Floyd's Kitchen,2,"12601 N Tatum BlvdPhoenix, AZ 85032",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",rQ4z0EStSZE4acgkne6Hmg,Tuck Shop,2,"2245 N 12th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",6L9McpPjh3UzZxvR1cf1Lw,Vinery 214 Bistro,2,"214 W Roosevelt StPhoenix, AZ 85003",Phoenix,2,FALSE
+"['American (New)', 'Restaurants']",Aisjvk-fZVwAcGsN4NlviA,Kozy Cactus,2,"4326 E Cactus RdPhoenix, AZ 85032",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",UIfORCz28cEGMr_9p0eJ5g,25 Degrees,2,"5415 E High StSte 127Phoenix, AZ 85054",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",6P2DqisDHtmD4Lvs2sMP-A,The Lobby Grill,2,"8000 S Arizona Grand PkwyPhoenix, AZ 85044",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",1hcGT6I1vAIH_pZuyud0HQ,Brickyard Sports Bar and Grill,2,"20235 N Cave Creek RdSte 111Phoenix, AZ 85024",Phoenix,2,FALSE
+"['American (New)', 'Restaurants']",M6fjHpkL9IRI-nI0BattRw,The Main Ingredient Ale House And CafÄ?,2,"2337 N 7th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",WS1z1OAR0tRl4FsjdTGUFQ,The Vig Uptown,2,"6015 N 16th StPhoenix, AZ 85014",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",fI47JKlBBwtqOgiZZb4hdQ,Peaks & Valleys Restaurant,2,"711 E Carefree HwyPhoenix, AZ 85085",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",nENrnY-3ILrH9yPXV4tqmg,Vatra,3,"3433 N 56th StPhoenix, AZ 85018",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",coXomDOValXzks6BwMHG1A,The Living Room Wine Cafe & Lounge,2,"2333 N 7th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",I4bSn5gXsHuSPu7L-d_8nQ,Beckett's Table,2,"3717 E Indian School RdPhoenix, AZ 85018",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",hlekz2L2HV8cVSEkgMvuEA,The House at Secret Garden,3,"2501 E Baseline RdPhoenix, AZ 85042",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",GHYOl_cnERMOhkCK_mGAlA,Kitchen 56,2,"3433 N 56th StPhoenix, AZ 85018",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",GYPHQGaB4Oeq9veH-p2nKA,Thirteen North,2,"1301 E NorthernPhoenix, AZ 85020",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",4r9-iKOagzn5oUvPE9Bz4Q,Province Restaurant,2,"333 N Central AvePhoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",kJFS_3WlP6TFdNUYt6V6FA,Cycle,2,"1100 N Central AvePhoenix, AZ 85004",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",k_aOcqWOHWprjs7ykdzlAQ,Jose Roux,2,"3800 E Sky Harbor BlvdPhoenix, AZ 85034",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",JUXPQQshoOV5LUKLtCrOtw,Our Gang Sports Saloon & Grill,2,"9832 N 7th StPhoenix, AZ 85020",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",l6C_jcDmKP6rfeNqHHrTAg,Phoenix Buffet,1,"2135 E Camelback RdPhoenix, AZ 85016",Phoenix,2,FALSE
+"['American (New)', 'Restaurants']",Ou5Moz82ivJ6-UUsNuy1Wg,Great American Grill,2,"10 E Thomas RdPhoenix, AZ 85012",Phoenix,2.5,FALSE
+"['American (New)', 'Restaurants']",kr3EFhoSwbJPrL_e_RD39g,Blue Hound Kitchen & Cocktails,2,"2 E Jefferson StPhoenix, AZ 85004",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",ALqygKZXxuVWGM23pFAiPQ,Dairy Queen,1,"4809 N 75th AvePhoenix, AZ 85303",Phoenix,2.5,FALSE
+"['American (New)', 'Restaurants']",7CTf4W-KT4h6uA_zpGZp2Q,Central Bistro,2,"3160 E Camelback RdPhoenix, AZ 85018",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",RiJ7ERp0UkQqaOFsrSP4zw,Arizona Authentic Pizza,1,"1811 N 24th StPhoenix, AZ 85008",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",rluuxDPHiP9Z4qtNO66eTw,Daily Bistro,2,"5053 N 44th StPhoenix, AZ 85018",Phoenix,3.5,FALSE
+"['American (New)', 'Restaurants']",mqLIvIVWmV00VWo3L5pj3Q,Cowboy Ciao,2,"3800 E Sky Harbor BlvdSte 4348Phoenix, AZ 85034",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",cSA2pB43cv71ffdIvaEodA,Cafeteria on Thomas,1,"507 W Thomas RdSte 4Phoenix, AZ 85013",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",s9sTtT5tlqAMgR4gYvLogA,Chili's Grill & Bar,2,"3045 W Agua Fria FwyPhoenix, AZ 85027",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",WjtJAtp19nA61b8LT9uLrA,Bink's Midtown,2,"2320 E Osborn RdPhoenix, AZ 85016",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",SfVsLCVap7VlF3GLUI8PlQ,RBG Bar & Grill,2,"427 N 44th StPhoenix, AZ 85008",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",mE31SR1RhKsAeo4MK1ra6g,Kings Subs,2,"3020 West Thomas RdPhoenix, AZ 85009",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",ejcnzdNMYQpohnnhLPLtLw,Spice Restaurant,2,"Crowne Plaza Phoenix North2532 W Peoria AvePhoenix, AZ 85029",Phoenix,3,FALSE
+"['American (New)', 'Restaurants']",eWiNE7Y8BIpvApHz4uviLw,Time Square,2,"I 17 DeervalleyPhoenix, AZ",Phoenix,5,FALSE
+"['American (New)', 'Restaurants']",TSg3URWOZ_I8vZGajxQ_6g,The Gladly,2,"2201 E Camelback RdPhoenix, AZ 85016",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",tbt8TduAgw21YAr8uw_AYQ,Twenty Highland Tavern,2,"4701 N 20th StPhoenix, AZ 85016",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",e2oXHln1dux2ACR0QQGoeQ,Ingo's Tasty Food,2,"4502 N 40th StPhoenix, AZ 85018",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",fwYujhi514Ie5GsdIZsa2g,Flower Child,2,"5013 N 44th StSuite B2025BPhoenix, AZ 85018",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",Kkx7XMwkd8GdhWln1vEYkQ,Urban Vine,2,"2201 N 7th StPhoenix, AZ 85006",Phoenix,4,FALSE
+"['American (New)', 'Restaurants']",Any6WyiVNmgbnWLqoxPXgQ,ThirdSpace,1,"1028 Grand AvePhoenix, AZ 85007",Phoenix,4.5,FALSE
+"['American (New)', 'Restaurants']",E5dqlvxPw9Q4XFqOMw_lqw,Dragonfly Cafe,2,"10135 E Via LindaScottsdale, AZ 85258",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",iqVDfE7XknJ6kDIoepT_xQ,Village Inn Restaurants,1,"10652 N 89th Pl.Scottsdale, AZ 85260",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",faSdsW2s_SaVN0KTy-R2MQ,L'academie,2,"4301 N Scottsdale RdScottsdale, AZ 85251",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",FV0BkoGOd3Yu_eJnXY15ZA,Cowboy Ciao,3,"7133 E Stetson DrSte 1Scottsdale, AZ 85251",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",AZAd_Zhv4UiJZ1x2FRPqIA,Pinon Grill,3,"7401 N Scottsdale RdScottsdale, AZ 85253",Scottsdale,2.5,FALSE
+"['American (New)', 'Restaurants']",2OY8xs4aqOt8eTnYokdrww,Elements,4,"5700 E McDonald DrScottsdale, AZ 85253",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",dyd81TK9jY-WLt6UbMFWng,Atlas Bistro B.Y.O.B,3,"2515 N Scottsdale RdSte 18Scottsdale, AZ 85257",Scottsdale,4.5,FALSE
+"['American (New)', 'Restaurants']",i2gLXa-MSAS-9oU8K_rnYQ,Bloom,3,"8877 N Scottsdale RdSte 402Scottsdale, AZ 85253",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",tdeHd2AVYlEnz9F1UGb84Q,ZuZu at Hotel Valley Ho,2,"6850 E Main StScottsdale, AZ 85251",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",AGLuEB0Tqy2gvuyRT2tnlg,Cafe Bistro,2,"5101 N Scottsdale RdScottsdale, AZ 85250",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",iKIyUViQL_lY0TEw3iUKQw,Crescent Moon,3,"Four Seasons Resort10600 E Crescent Moon DrScottsdale, AZ 85262",Scottsdale,3,FALSE
+"['American (New)', 'Restaurants']",NiYl4WSOKu387JuHixm6_A,Palm Court Restaurant at the Scottsdale Resort,4,"7700 E McCormick PkwyScottsdale, AZ 85258",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",CdWrHBOvTZ6i0Z37iFaV3g,Javino's,2,"14795 N Northsight BlvdScottsdale, AZ 85260",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",ld9OqTALe6LRnHyFFThMZg,The Painted Horse Restaurant,2,"10989 E Dynamite BlvdSte 103Scottsdale, AZ 85262",Scottsdale,4.5,FALSE
+"['American (New)', 'Restaurants']",Xn_vBRM_vpy6uhnEBIpt-g,Phil's Grill,2,"Grayhawk Country Club8620 E. Thompson Peak PkwyScottsdale, AZ 85255",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",ymwr8OUokLLxG89gjJ1hjw,The Estate House,3,"7134 E Stetson DrSte 200Scottsdale, AZ 85251",Scottsdale,3.5,FALSE
+"['American (New)', 'Restaurants']",f2nLhBF_tId8eiN6GhJv6g,OC Seven,2,"The Scottsdale Athletic Club8225 E Indian Bend RdScottsdale, AZ 85250",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",45Vj6a0LX4B2a7loTJyb4g,Mosaic Restaurant,3,"10600 E Jomax RdScottsdale, AZ 85262",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",WQc22qucCCtOytbx5CHqbw,Nellie Cashman's Monday Club Cafe,2,"The Westin Kierland Resort & Spa6902 E Greenway PkwyScottsdale, AZ 85254",Scottsdale,3,FALSE
+"['American (New)', 'Restaurants']",L-uPZxooP_ziXCtRrWi8Pw,Cafe Monarch,3,"6934 E 1st AveSte 102Scottsdale, AZ 85251",Scottsdale,4.5,FALSE
+"['American (New)', 'Restaurants']",r0cKkJSTFXuGhBu5823NCQ,Heirloom An American Restaurant,3,"20775 N Pima RdScottsdale, AZ 85255",Scottsdale,4,FALSE
+"['American (New)', 'Restaurants']",8t8DFm9iJr30I3tNSaWkKQ,Village Inn,1,"1080 W Elliot RdTempe, AZ 85284",Tempe,1.5,FALSE
+"['American (Traditional)', 'American (New)', 'Restaurants']",Q5diW79GD0MSJ10j1HCf8Q,TGI Friday's,1,"11025 N Black Canyon HwyPhoenix, AZ 85073",Phoenix,1,FALSE
+"['American (Traditional)', 'Restaurants']",9sG13lKBJ-dI9knww5_JWA,Taylor Rays,2,"4906 E Main StMesa, AZ 85205",Mesa,1.5,FALSE
+"['American (Traditional)', 'Restaurants']",czfJD7GkQ4j1j9QmCeB4lw,Redstone Grill,1,"1600 S Country ClubMesa, AZ 85210",Mesa,1.5,FALSE
+"['Burgers', 'Fast Food', 'Restaurants']",b5OBIHUqtJNsOCZpwSpUWQ,Burger King,1,"1945 S Alma School RdChandler, AZ 85286",Chandler,1,FALSE
+"['Burgers', 'Fast Food', 'Restaurants']",wxvOv5ERgY2SPp1OyIdLEQ,McDonald's,1,"1090 E Pecos RdChandler, AZ 85225",Chandler,1.5,FALSE
+"['Burgers', 'Fast Food', 'Restaurants']",TRhuiVSzrjveulJaH5lgow,Burger King,1,"2024 E Southern AveMesa, AZ 85204",Mesa,1.5,FALSE
+"['Burgers', 'Fast Food', 'Restaurants']",q8R86OehdNa5fQ9ssu3STg,McDonald's,1,"1460 W. Southern Ave.Southern and LongmoreMesa, AZ 85202",Mesa,1.5,FALSE
+"['Burgers', 'Fast Food', 'Restaurants']",pA0Z8FbnfsoRmHe1ULqHeQ,McDonald's,1,"1429 W Baseline RdTempe, AZ 85283",Tempe,1.5,FALSE
+"['Burgers', 'Restaurants']",jTAooccoecIJiv5wb4h8sQ,Rally's Hamburgers,1,"343 W McKellips RdMesa, AZ 85201",Mesa,1.5,FALSE
+"['Burgers', 'Restaurants']",txXbU0J-H3W4tp1ISTrEIg,Burger King,1,"9154 E Main StMesa, AZ 85207",Mesa,1,FALSE
+"['American (New)', 'Asian Fusion', 'Chinese', 'Restaurants']",5npcHq7cvdJlgQen_1n80Q,Ling and Louie's Kitchen,2,"2502 E Camelback RdPhoenix, AZ 85016",Phoenix,3,TRUE
+"['American (New)', 'Chinese', 'Restaurants']",EK0Jlhk11QsDDK5od4_lLQ,Sunny World,1,"4906 E Main StMesa, AZ 85205",Mesa,3,TRUE
+"['American (Traditional)', 'Chinese', 'Restaurants']",BT2Vls7h6sWrCKa5gGXbKg,Long Wong's Restaurant,1,"2812 E Thomas RdPhoenix, AZ 85016",Phoenix,3,TRUE
+"['Asian Fusion', 'American (New)', 'Chinese', 'Restaurants']",gI4jThFNwy73SzaNvi-1dw,Ling & Louie's Asian Bar and Grill,2,"9397 E Shea BlvdSte 125Scottsdale, AZ 85260",Scottsdale,4,TRUE
+"['Asian Fusion', 'Buffets', 'Chinese', 'Restaurants']",A4pL6j3e6JAtblmCUF2GZA,Crazy Buffet,2,"7720 S Priest DrTempe, AZ 85281",Tempe,3,TRUE
+"['Asian Fusion', 'Buffets', 'Chinese', 'Restaurants']",0g_KFvnPIkA8ywTXPPeRCg,Hong Kong Asian Diner,1,"9880 S Rural RdTempe, AZ 85284",Tempe,3.5,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",VsO_rhXi5lgbaGxNwoEZsQ,Fate 905,2,"905 N 4th StPhoenix, AZ 85004",Phoenix,3,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",BicQSnGZnY_yuGEDkhVfnA,Little Shanghai,2,"4017 E Indian School RdPhoenix, AZ 85018",Phoenix,3.5,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",enbTOcl7WNgsjsAtmhvDRA,Mu Shu Asian Grill,2,"1502 W Thomas RdPhoenix, AZ 85015",Phoenix,4,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",KhSGkyxwSuTBS80BU5eVVA,Hong Kong Asian Cuisine,2,"3170 W Carefree HwySte 1Phoenix, AZ 85086",Phoenix,3,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",m2M7X5ItFvhOC7a6B7JcDg,George and Sons,2,"3049 W Agua Fria FwyPhoenix, AZ 85027",Phoenix,4.5,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",ZdQbDVZWDsO-d7q2qW8E3A,George & Son's Asian Cuisine,2,"11291 E Via LindaScottsdale, AZ 85259",Scottsdale,4,TRUE
+"['Asian Fusion', 'Chinese', 'Restaurants']",UW32rmopWuDpT0X1b4RUXA,Bamboo Club,2,"8624 E Shea BlvdScottsdale, AZ 85260",Scottsdale,3,TRUE
+"['Asian Fusion', 'Japanese', 'Chinese', 'Restaurants']",XHzZgNmJFVHeT3unDg2Qig,The Clever Koi,2,"4236 N Central AvePhoenix, AZ 85012",Phoenix,4,TRUE
+"['Asian Fusion', 'Mexican', 'Chinese', 'Restaurants']",Lnohr9bpCbHNsomazXDg-w,Chino Bandido,1,"1825 W Chandler BlvdChandler, AZ 85224",Chandler,3.5,TRUE
+"['Breakfast & Brunch', 'Mexican', 'Chinese', 'Restaurants']",VQmgq4Dwwej5AwnHBmDIAg,International House of Food,1,"902 W Van Buren StPhoenix, AZ 85007",Phoenix,4.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",eyjyLrHjTPGuynfv-glYcw,Chinese Gourmet Buffet,1,"2386 N Alma School RdChandler, AZ 85224",Chandler,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",LQbzGUOXOxYqAWInQ1terw,King Buffet,1,"2984 N Alma School RdChandler, AZ 85224",Chandler,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",bfrjf244fMcEA-duT2aZuQ,Jen Buffet,2,"700 W Warner RdChandler, AZ 85225",Chandler,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",oxMOHPMVMZ5lMPT022MZ-A,Yummy Buffet,1,"700 W Warner RdChandler, AZ 85224",Chandler,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",tbGpaY8AFjxsZJU4Eubbnw,New China Buffet,1,"1230 S Gilbert RdMesa, AZ 85204",Mesa,1.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",l4-_XjHhmr9a_D3X2K7kig,Ocean Buffet,1,"1450 S Country Club DrMesa, AZ 85210",Mesa,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",Y5ftpklvYcdviNKMrRP_yw,Eastern Super Buffet,2,"1901 S Signal Butte RdSte 101Mesa, AZ 85209",Mesa,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",vJStjloE8hsI94Bc9ucbSA,Panda King's Buffet,1,"1744 W Main StMesa, AZ 85201",Mesa,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",MKiOSSn8lONiMgZednCfXw,U-Like World Buffet,2,"1343 S Gilbert RdMesa, AZ 85204",Mesa,2,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",naUFPFYH2CqHtTrV3IAJrQ,Crown China Super Buffet,1,"5505 N 7th StPhoenix, AZ 85014",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",t30Ua_mSiClnpBqud84ygw,Imperial Garden Chinese Buffett,1,"1575 E Camelback RdPhoenix, AZ 85014",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",UxMnY3Dxafucv5cXHyfBSA,New Hong Kong,1,"2328 E Indian School RdPhoenix, AZ 85016",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",sMD2HPNh7m0hgCxHDzGTzQ,Golden Coin,1,"3224 E Thomas RdPhoenix, AZ 85018",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",LGLOtR2e-v74MpB51k8hxQ,Lim's Chinese Buffet,1,"2412 E Greenway RdPhoenix, AZ 85032",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",kktQXaj7zI_PGkH6SR2YPg,New Sun Star Super Buffet,1,"5819 S Central AvePhoenix, AZ 85040",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",#NAME?,Hong Kong Gourmet Buffet,2,"4909 E Chandler BlvdPhoenix, AZ 85048",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",PQ-6WWl4A0VkZzhRCEacVA,South China Buffet,1,"4515 N 7th AvePhoenix, AZ 85013",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",3fNGtIfuHwt0-DD9SSjO6Q,China Garden Restaurant,1,"17201 N 19th AvePhoenix, AZ 85023",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",JmKgenzB37i3xcK0rJkDmQ,Great Wall Buffet,1,"10605 N 43rd AvePhoenix, AZ 85029",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",EFxaUHb6UwOpsvIIdZk-Ng,China Harvest Buffet,1,"12407 N 28th DrPhoenix, AZ 85029",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",nE-qMmKkYEuT0onFTLDFtg,May Garden Restaurant,1,"5814 W Indian School RdPhoenix, AZ 85031",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",dCjIsHdc-IoOmfMt7qqZJA,Chinese Gourmet Buffet,1,"5301 W Indian School RdPhoenix, AZ 85031",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",FJgO8d_Lx0P1A0KOiRfuFg,China Buffet 2000,1,"7337 W Indian School RdPhoenix, AZ 85033",Phoenix,1.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",Wns0UP_28xk6uZ-b6LrMnQ,New China Buffet,1,"2939 N 24th StPhoenix, AZ 85016",Phoenix,2,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",eXALA0wNH2LdwpUlGvWsKw,China Olive,1,"3434 E Thomas RdPhoenix, AZ 85018",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",Y04chCG7J-yJ6ucEZ26IGA,Great Dragon Restaurant,1,"2624 W Bethany Home RdPhoenix, AZ 85017",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",QAUDLYNxhHGdUn5YP7au_w,China Star Super Buffet,1,"3507 W Dunlap AvePhoenix, AZ 85073",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",z-5F-tlpAUci4obI3Gl2ow,Jumbo Buffet,2,"3414 W Southern AvePhoenix, AZ 85041",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",GrUh2Jo6sL3wllrtZY4zmg,Eastern Buffet,1,"1617 E Thomas RdPhoenix, AZ 85016",Phoenix,2,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",kbjwpfsKEvsEOVUsxSbbSA,Lin's Grand Buffet,2,"7406 W McDowell RdPhoenix, AZ 85035",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",kCjR5nLyphuNKnDqRjurXQ,New China Super Buffet,1,"601 W Bell RdPhoenix, AZ 85023",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",KkdkWeTMN8q-xpWD0ckx1Q,Shanghai Buffet,1,"4201 W Bell RdPhoenix, AZ 85053",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",En4UyDiGgmQuWq__50RAgA,Great China Super Buffet,1,"1501 W Bethany Home RdPhoenix, AZ 85015",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",atbvu3MxnDgpQfZgvPZz2Q,Red Dragon Chinese and Mexican Food,1,"1520 W Indian School RoadPhoenix, AZ 85015",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",tvBC1FNxX_quNv-4IkGzQw,101 Asian Buffet,2,"20440 N 27th AvePhoenix, AZ 85027",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",z5r8zD7vGPCMpKljERvKqg,Royal Buffet,2,"4921 E Ray RdPhoenix, AZ 85044",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",Aa-UgGOs1lDZzQhap370Ig,Lin's Grand Buffet,2,"Phoenix, AZ 85042",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",_PSo13KRX_X7FQR5mtUCug,Hibachi Grill & Supreme Buffet,1,"2929 N 75th AvePhoenix, AZ 85033",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",DuaoskPAVBV55px_cwxIVw,E-Z Buffet,1,"3202 E Greenway RdPhoenix, AZ 85032",Phoenix,2,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",FjSttKipz44vRwKpPwhh-Q,Hibachi Grill & Supreme Buffet,2,"10030 N Metro Pkwy EPhoenix, AZ 85051",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",GHY7UYRnMhZnQ1FSIH20wg,Red Wok Buffet,2,"3434 E Thomas RdPhoenix, AZ 85018",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",SYSBZeffWbScfQsI_e4b0w,New King Wah Chinese Buffet,1,"220 E Southern AvePhoenix, AZ 85040",Phoenix,3.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",cpfqZ_968LCuIyHJ3X46NQ,China City Super Buffet,1,"5301 W Indian School RdPhoenix, AZ 85031",Phoenix,3,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",0t9N1QJv9L4HNXpmjHbsVQ,China Asia Super Buffet,1,"5301 W Indian School RdPhoenix, AZ 85031",Phoenix,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",SEAGuzHqB1tgKZGzWiLBLg,China Farm Chinese Buffet,1,"3135 S 48th StTempe, AZ 85282",Tempe,2.5,TRUE
+"['Buffets', 'Chinese', 'Restaurants']",baV9mE-cD9u-buA9N_k-Xg,China Town Buffet,1,"1807 E Baseline RdTempe, AZ 85283",Tempe,2.5,TRUE
+"['Buffets', 'Dim Sum', 'Chinese', 'Restaurants']",yOYFhiTjT-SM4spKtDk92w,China Chan Restaurant,1,"10227 N Metro Pkwy EPhoenix, AZ 85051",Phoenix,3.5,TRUE
+"['Buffets', 'Japanese', 'Chinese', 'Restaurants']",MkDTaYABHF2chHTIjCirBA,Volcano Buffet,2,"805 N Dobson RdMesa, AZ 85201",Mesa,3,TRUE
+"['Buffets', 'Mongolian', 'Chinese', 'Restaurants']",CdOb17NMdQpagyHSxv5mHA,YC's Mongolian Grill,2,"3206 S McClintock DrTempe, AZ 85282",Tempe,4,TRUE
+"['Buffets', 'Mongolian', 'Chinese', 'Restaurants']",L-bpJXpA5875dLb7A4wh6A,YC's Mongolian Grill,2,"752 W Elliot RdTempe, AZ 85284",Tempe,4,TRUE
+"['Chicken Wings', 'Chinese', 'Restaurants']",-I2-9X1hbqTUH3XwvPMJjA,Long Wongs,1,"1272 N Arizona AveChandler, AZ 85225",Chandler,3,TRUE
+"['Chicken Wings', 'Chinese', 'Restaurants']",SPqPt-K6qzTutj_vWOgKGA,Marcia's Long Wongs,1,"5 W Baseline RdPhoenix, AZ 85041",Phoenix,4,TRUE
+"['Chinese', 'Food', 'Ethnic Food', 'Buffets', 'Specialty Food', 'Restaurants']",BV8_BpJaWpU_HjjLiYZX-Q,China City Super Buffet,2,"2235 S Power RdSte 101Mesa, AZ 85209",Mesa,3,TRUE
+"['Chinese', 'Food', 'Ethnic Food', 'Specialty Food', 'Cantonese', 'Restaurants']",C0Oax-LBEFf0mmPSugymEQ,Lim's Chinese Restaurant,1,"7532 W Indian School RdPhoenix, AZ 85033",Phoenix,4,TRUE
+"['Chinese', 'Restaurants']",zlatJeuJl05vsJoHM6XEDA,Red Dragon Chinese Food,1,"2160 N Alma School RdChandler, AZ 85224",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",k83LpHfy9j05POm4rxBVSA,China Way Restaurant,1,"3021 N  Alma School RdChandler, AZ 85224",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",phHXdTh5L2w8vQ9Gsmq27A,Yangtse Chinese Bistro,1,"1940 W Chandler BlvdChandler, AZ 85224",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",T_d9GB_p0ajNTVEZ2CMmrw,Pick Up Stix,1,"4030 W Ray RdChandler, AZ 85226",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",Unk6ToZjPfHBPWiGOwqVeA,Queen's Bowl Chinese Food,1,"6245 W Chandler BlvdChandler, AZ 85226",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",g_kOqG2Zl8ygx46XKtWilw,House of Egg Roll,1,"961 W Ray RdSte 11Chandler, AZ 85225",Chandler,2.5,TRUE
+"['Chinese', 'Restaurants']",7H5MW_hw0ns2nslHULBKzQ,Chens Chinese Food,1,"2945 E Riggs RdChandler, AZ 85249",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",sNuyncpQdcvfEpfZS-3Yew,Tott's Asian Diner,1,"4030 W Ray RdSte 1Chandler, AZ 85226",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",hrOsdyai-9B91cGjBspHqw,Tao Garden,2,"2050 N Alma School RdChandler, AZ 85224",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",4uuUxywiTmzzOHxRrcxZLQ,Panda Express,2,"4040 S Arizona AveChandler, AZ 85248",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",LI8-xzJrr27hOhzMtRTW2Q,Phoenix Palace,2,"1949 W Ray RdSte 23Chandler, AZ 85224",Chandler,2.5,TRUE
+"['Chinese', 'Restaurants']",kbzdkRp8m6kQDeNbkHwY1Q,Chef Chiang,2,"4929 W Chandler BlvdSte 3Chandler, AZ 85226",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",CMvCbtkcHH9Gp0S3w1_aQA,Hong Kong Bistro,2,"4990 S Gilbert RdSte 8Chandler, AZ 85249",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",dsWCKpbIN7W30pqfRJU0dg,Big Wa,1,"990 E. Riggs Rd.Chandler, AZ 85249",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",Ul1mS4EA2Q8DGyLB7gQXJA,Beijing Restaurant,1,"2040 S Alma School RdSte 13Chandler, AZ 85286",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",fRCZktDIBu9-uJ1wOYB3bA,Ling and Louie's Asian Bar and Grill,2,"5040 Wild Horse Pass BlvdGila River Indian Casino CommunityChandler, AZ 85226",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",e6Mpww7fKEmnfB4AaCAAyg,Hong Kong Kitchen II,1,"3076 E. Chandler Heights RdSte 104Chandler, AZ 85249",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",fVJge-YF3sWetiEDD-hIHA,Panda Express,1,"2905 W Ray RdChandler, AZ 85224",Chandler,2.5,TRUE
+"['Chinese', 'Restaurants']",PdW9m3apsOUc1p0ZlK3YSg,Hot Wok Chinese Restaurant,1,"1050 E Ray RdChandler, AZ 85225",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",UHYxPlfmPLbEftz3Ntnfcg,iKitchen,1,"5055 W Ray RdChandler, AZ 85226",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",jfDBaBgwINrGYAo8p2MJ4g,China Magic Noodle House,1,"2015 N Dobson RdChandler, AZ 85224",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",_SbBztPWznTFKG8l-fMJEQ,Golden City Chinese Restruant,1,"1018 N. Arizona Ave.Chandler, AZ 85225",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",rgizde3reoXusbR1Oug37A,Gold Chef,1,"1055 S Arizona AveSte 10Chandler, AZ 85286",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",Mzvb9KyqVhrDA7wGhkTAKg,Wang's Delight,1,"3855 W Ray RdSte 6Chandler, AZ 85226",Chandler,3.5,TRUE
+"['Chinese', 'Restaurants']",jgWAgT7LWPTf5wju9Q-kiw,Chou's Kitchen,1,"910 N Alma School RdChandler, AZ 85224",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",E93aiEHvf2secePlIeCxGg,Chen's Chinese Bistro,1,"990 E Riggs RdSte 9Chandler, AZ 85249",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",SzCMZ664veIZpYp4Tk84Hg,Szechwan Garden,2,"5055 W Ray RdSte 1Chandler, AZ 85226",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",wF4FeAIFZUyyhNiaKKNXEQ,Szechuan Cuisine,1,"5865 W Ray RdChandler, AZ 85226",Chandler,4,TRUE
+"['Chinese', 'Restaurants']",pTy-SJdZrQw5i5Hbbge5kg,Max Asia Cafe,1,"1018 N Arizona AveChandler, AZ 85225",Chandler,4.5,TRUE
+"['Chinese', 'Restaurants']",VDLQNhp695jcwTvMFi8W5g,Hunan Garden,2,"1940 W Chandler BlvdSte 1Chandler, AZ 85224",Chandler,3,TRUE
+"['Chinese', 'Restaurants']",8TGUK7LD3M-vLWml-jLb0w,Best Hong Kong Dining,2,"1116 S Dobson RdSte 123Mesa, AZ 85202",Mesa,3.5,TRUE
+"['Chinese', 'Restaurants']",0jrqXBr8UJjlG23yJevGbg,China Express,1,"1940 W Baseline RdMesa, AZ 85202",Mesa,5,TRUE
+"['Chinese', 'Restaurants']",CuYHDItnOSfSlPfPDA9Btw,Golden Canyon Oriental,1,"1133 S Dobson RdMesa, AZ 85202",Mesa,3.5,TRUE
+"['Chinese', 'Restaurants']",PNrOTfMmE0CJFV9YwSLzYw,Golden Gate Chinese Restaurant,2,"2640 W Baseline RdMesa, AZ 85202",Mesa,4,TRUE
+"['Chinese', 'Restaurants']",iyDeQ21CQO2-eKbbiHzrWg,Panda Express,1,"1959 S Power RdMesa, AZ 85206",Mesa,2,TRUE
+"['Chinese', 'Restaurants']",qc-YDANWNNI3iEwam7wy1w,Golden Valley Chinese Restaurant,1,"832 W Baseline RdMesa, AZ 85210",Mesa,4,TRUE
+"['Chinese', 'Restaurants']",ZCzXgj8OOGb5ww_RX4G7kA,China Panda Buffet,1,"1326 S Country Club DrMesa, AZ 85210",Mesa,2.5,TRUE
+"['Chinese', 'Restaurants']",INFG341Vwyr1M94xpimsmA,Chens Chinese Restaurant,1,"9303 E Baseline RdMesa, AZ 85209",Mesa,3.5,TRUE
+"['Chinese', 'Restaurants']",eW-hTjKrt91NnQ9xzMYtDQ,China China Restaurant,2,"1034 E Main StMesa, AZ 85203",Mesa,4,TRUE
+"['Hot Dogs', 'Food Stands', 'Restaurants']",eV25RVJvKcvPQqxSde0lBQ,La Katra Hot Dog Cart,1,"1505 W Baseline RdTempe, AZ 85283",Tempe,4,FALSE
+"['Hot Dogs', 'Restaurants']",x8I3XYa6CbI9REIJpDFtQA,Dave's Dog House,1,"Arizona State University - Wilson Hall240 E Orange MallTempe, AZ 85281",Tempe,4,FALSE
+"['Hot Dogs', 'Restaurants']",oGwzYYdpLKH_d9T3af4-oQ,Dog Town Chili Dogs,1,"690 S Mill AveSte 110Tempe, AZ 85281",Tempe,3.5,FALSE
+"['Hot Dogs', 'Restaurants']",niwDrCLIqi3qvYzD-8VL1A,Nathans Famous Hotdogs,,"5000 Arizona Mills CirTempe, AZ 85282",Tempe,2,FALSE
+"['Indian', 'Buffets', 'Restaurants']",6SMQl2vR37HvjYWwSl1V3w,Royal Taj,2,"1845 E Broadway RdSte 101Tempe, AZ 85282",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",bciNuOPRtP2Kc98EhsqSpQ,Priya Indian Cuisine,2,"1761 E Warner RdSte 5Tempe, AZ 85284",Tempe,3,FALSE
+"['Indian', 'Buffets', 'Restaurants']",NMYXPFV8V5uOi9wUuR3mdg,Kohinoor Cuisine of India,1,"1043 E Lemon StTempe, AZ 85281",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",ZeJArxfvuV1rAAGT5Xe5Yw,Kabab Palace,2,"710 W Elliot RdSte 108Tempe, AZ 85284",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",wjdliX7p3uNZJSSiwB737w,Taj Mahal Indian Cuisine,2,"1849 N Scottsdale RdTempe, AZ 85281",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",d5CSj7DL3l56paYgfpFSkQ,Southern Spice,2,"1849 N Scottsdale RdTempe, AZ 85281",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",rbeBreN9KOWipTUQsmiQ9g,India Grill,2,"325 W Elliot RdSte 101Tempe, AZ 85284",Tempe,4,FALSE
+"['Indian', 'Buffets', 'Restaurants']",25cCnPfbVdYWNhbFLuwiYQ,Chutney's Indian Cuisine,2,"1801 E Baseline RdSte 104Tempe, AZ 85283",Tempe,3.5,FALSE
+"['Indian', 'Buffets', 'Restaurants']",8TFRCfyUd5xIs9kizNgo_Q,Passage To India,2,"909 E Elliot RdTempe, AZ 85284",Tempe,3.5,FALSE
+"['American (New)', 'Restaurants']",LkUW-NhcFg21GV9IgiUw0A,S'Bistro,3,"124 W Main StMesa, AZ 85201",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",UOA5soaz7A1MLN7LJaDuYw,Bar Tepo,2,"1625 S Val Vista DriveMesa, AZ 85204",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",CEq1jgP-F6roehvSiv30dQ,de la Cruz Bistro,2,"10 W Main StMesa, AZ 85209",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",sRhfzx8P_VAdmofWMSPD3A,Cafe Laguna,1,"2235 S Power RdSte 120Mesa, AZ 85209",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",nlbZs9GkO_ZJk3qg9ZBSxw,Paradise Bakery and Cafe,2,"1946 S Signal Butte RdSte 109Mesa, AZ 85209",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",4YiayKmzqRao1UNb8Xh0Bw,On The Green Sports Grill,2,"801 S Power RdMesa, AZ 85206",Mesa,3.5,FALSE
+"['American (New)', 'Restaurants']",qh455klme9unowV-BQol7w,Paradise,2,"1749 W Main StMesa, AZ 85201",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",C51teWZIJIEGVYFTijaw_w,Chick-fil-A,1,"905 N Dobson RdMesa, AZ 85201",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",_jbeTDw6XSuvLaR1V_z8jw,Copper Plate An American Grill,2,"6033 S Sossaman RdMesa, AZ 85212",Mesa,3.5,FALSE
+"['American (New)', 'Restaurants']",rNVzF9mIIkbeie5nMydiyg,Paradise Bakery,1,"5835 S Sossaman RdMesa, AZ 85212",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",VL6ORdoe2aDo6Ys9w_Kdxw,The Patio At Las Sendas Golf Club,2,"7555 E Eagle Crest DrMesa, AZ 85207",Mesa,3,FALSE
+"['American (New)', 'Restaurants']",42Xr9Id3Xsrht3weCYcDzA,Rochester's Family Dining & Sports Bar,1,"721 S  RochesterMesa, AZ 85206",Mesa,4,FALSE
+"['American (New)', 'Restaurants']",M80LgyAZ-yXYDkCB74hyUw,Ihop,1,"917 N Dobson RdMesa, AZ 85201",Mesa,2.5,FALSE
+"['American (New)', 'Restaurants']",cL2DV9djtFw7nT2kL_AuUQ,Chez Nappy,1,"1740 S Mesa DrMesa, AZ 85210",Mesa,4.5,FALSE
+"['American (New)', 'Restaurants']",PoIoQkRFlToSF8DURyY6Sw,Village Inn,,"1859 S Stapley DrMesa, AZ 85204",Mesa,2,FALSE
+"['American (New)', 'Restaurants']",nzJxNn-tKG7kw_zf7xaYbg,Top of the Rock,3,"2000 W Westcourt WayTempe, AZ 85282",Tempe,3.5,FALSE
+"['American (New)', 'Restaurants']",MXM30GZrf4AeqR5p6berkg,Baja Fresh N,1,"780 W Elliot RoadTempe, AZ 85284",Tempe,2.5,FALSE
+"['American (New)', 'Restaurants']",nVsABtNAvGoiMoSOEfjTzQ,John Henry's,2,"909 E Elliot RdTempe, AZ 85284",Tempe,2.5,FALSE
+"['American (New)', 'Restaurants']",8t8DFm9iJr30I3tNSaWkKQ,Village Inn,1,"1080 W Elliot RdTempe, AZ 85284",Tempe,1.5,FALSE
+"['Chinese', 'Restaurants']",simnCuMX4OVwIhWaIqL4zA,Red House,1,"8902 E Via LindaSte 100Scottsdale, AZ 85258",Scottsdale,3.5,TRUE
+"['Chinese', 'Restaurants']",Cg12SRwvqFuNFx-rt3A3gw,Panda Express,1,"6501 E Greenway PkwySte 131Scottsdale, AZ 85254",Scottsdale,3.5,TRUE
+"['Chinese', 'Restaurants']",wwQxWLK7kHj6MaywBdcfFw,Yummy Yummy Chinese Restaurant,1,"2765 N Scottsdale RdSte 105Scottsdale, AZ 85257",Scottsdale,3,TRUE
+"['Chinese', 'Restaurants']",xxyuGOeAWnKVwIfoKnfUNA,Jimmy Woo's,2,"4233 N Scottsdale RdScottsdale, AZ 85251",Scottsdale,3,TRUE
+"['Chinese', 'Restaurants']",FI4ns6iR4ZrhoaYjITf-Mg,Sunshine Moon Peking Pub,2,"4175 N Goldwater BlvdScottsdale, AZ 85251",Scottsdale,3.5,TRUE
+"['Chinese', 'Restaurants']",oFjwJO4W5uf2o1jPVR7AeQ,Panda Express,1,"2931 N Scottsdale RdScottsdale, AZ 85251",Scottsdale,2.5,TRUE
+"['Chinese', 'Restaurants']",QM3dsi5TD4FCL0BpFU6frg,Qwik Chinese Bistro,1,"9030 E Via LindaSte100Scottsdale, AZ 85258",Scottsdale,3.5,TRUE
+"['Chinese', 'Restaurants']",IVKfggCQxQacIow9xP0fjA,China Jade,1,"14747 Northsight BlvdSte116Scottsdale, AZ 85260",Scottsdale,3,TRUE
+"['Chinese', 'Restaurants']",d61OE_k-wFf8ku4GL1aLyQ,Hong Kong Asian Cuisine,2,"15050 N Northsight BlvdScottsdale, AZ 85260",Scottsdale,3.5,TRUE
+"['Chinese', 'Restaurants']",LvUFJbUfGT7Q4m-cUIH4CQ,Jade Palace,2,"8876 E Pinnacle Peak RdSte 104Scottsdale, AZ 85255",Scottsdale,4.5,TRUE
+"['Chinese', 'Restaurants']",Ewf8sZkyCfhi8Nu9LbEc6A,Pong Pong Restaurant,1,"3330 S Price RdTempe, AZ 85282",Tempe,3.5,TRUE
+"['Chinese', 'Restaurants']",vjhOjeoKL_TGPXON6XDEsQ,Hunan Express Chinese Delivery,1,"818 W Broadway Rd Ste 101Tempe, AZ 85282",Tempe,3,TRUE
+"['Chinese', 'Restaurants']",Y5clwKIHw8qTpy3pCH1BHQ,Golden Egg Roll,1,"3320 S Priest DrTempe, AZ 85282",Tempe,3.5,TRUE
+"['Chinese', 'Restaurants']",wXP_zTXRRvhHENKmiz6ziQ,Rice King Restaurant,1,"930 W Broadway RdSte 11Tempe, AZ 85282",Tempe,2,TRUE
+"['Chinese', 'Restaurants']",#NAME?,The Magic Wok,2,"1721 E Warner RdTempe, AZ 85284",Tempe,3.5,TRUE

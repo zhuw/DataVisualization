@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<style>
+
+    body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        margin: auto;
+        position: relative;
+        
+    }
+
+    text {
+        font: 10px sans-serif;
+    }
+    .title{
+        font: 15px sans-serif;
+    }
+    form {
+        position: absolute;
+        left: 75px;
+        top: 10px;
+    }
+
+    input {
+        margin: 0 7px;
+    }
+
+    #tooltip {
+        position: absolute;
+        padding: 4px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        pointer-events: none;
+        opacity: 0.8;
+
+    }
+    #tooltip.hidden {
+        display: none;
+    }
+
+    #tooltip p {
+        font-weight: bold;
+    }
+
+    .centered {
+        margin: 0 auto;
+        text-align: left;
+        width: 300px;
+    }
+
+</style>
+<form></form>
+<div id="tooltip" class="hidden">
+    <p><span id ="total"></span></p>
+</div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+    var width = 300,
+            height = 300,
+            radius = Math.min(width, height) / 2;
+
+    var color = d3.scale.ordinal()
+            .range(["#FF867E", "#FFBD8C", "#ff8c00"]);
+
+
+    var pie = d3.layout.pie()
+            .value(function(d) { return d.count; })
+            .sort(null);
+
+    var arc = d3.svg.arc()
+            .innerRadius(radius - 110)
+            .outerRadius(radius - 80);
+
+    var svg = d3.select("body").append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
+            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+    var path = svg.selectAll("path");
+    svg.append("text")
+            .attr("x",-30)
+            .attr("y",90)
+            .attr("class","title")
+            .text("Take Out");
+
+    d3.tsv("ServiceCounterTakeout.tsv", type, function(error, data) {
+        var regionsByFruit = d3.nest()
+                .key(function(d) { return d.fruit; })
+                .entries(data)
+                .reverse();
+
+        var label = d3.select("form").selectAll("label")
+                .data(regionsByFruit)
+                .enter().append("label");
+
+        label.append("input")
+                .attr("type", "radio")
+                .attr("name", "fruit")
+                .attr("value", function(d) { return d.key; })
+                .on("change", change)
+                .filter(function(d, i) { return !i; })
+                .each(change)
+                .property("checked", true);
+
+        label.append("span")
+                .text(function(d) { return d.key; });
+
+        function change(region) {
+            var data0 = path.data(),
+                    data1 = pie(region.values);
+
+            path = path.data(data1, key);
+
+            path.enter().append("path")
+                    .each(function(d, i) { this._current = findNeighborArc(i, data0, data1, key) || d; })
+                    .attr("id",function(d) { return d.data.total; })
+                    .attr("fill", function(d){
+                        return color(d.data.region); })
+                    .on("mouseover", function(d) {
+                        d3.select(this)
+
+                                .style("opacity","0.5");
+                        d3.select("#tooltip")
+                                .classed("hidden",false)
+                                .style("left",115 + "px")
+                                .style("top", 125 + "px")
+                                .attr("font-size", "34px")
+                                .style("color",color(d.data.region))
+                                .select("#total")
+                                .text(d.data.percentage);
+                       // d3.select("#tooltip").selectAll("p").attr("fill", "red");
+                    })
+                    .on("mouseout", function(d) {
+                        d3.select(this)
+                                .style("opacity","1.0");
+                    });
+
+            path.exit()
+                    .datum(function(d, i) { return findNeighborArc(i, data1, data0, key) || d; })
+                    .transition()
+                    .duration(750)
+                    .attrTween("d", arcTween)
+                    .remove();
+
+            path.transition()
+                    .duration(750)
+                    .attrTween("d", arcTween);
+
+            var legend = svg.selectAll(".legend")
+                    .data(data1, key)
+                    .enter().append("g")
+                    .attr("class", "legend")
+                    .attr("transform", function(d, i) { return "translate(0," + i*20  + ")"; });
+
+            legend.append("rect")
+                    .attr("x",  140 )
+                    .attr("y", -79)
+                    .attr("width", 10)
+                    .attr("height", 10)
+                    .style("fill", function(d) { return color(d.data.region); });
+
+            legend.append("text")
+                    .attr("x", 138)
+                    .attr("y", -75)
+                    .attr("dy", ".35em")
+                    .style("text-anchor", "end")
+                    .text(function(d) { return d.data.region; });
+        }
+    });
+
+    function key(d) {
+        return d.data.region;
+    }
+
+    function type(d) {
+        d.count = +d.count;
+        return d;
+    }
+
+    function findNeighborArc(i, data0, data1, key) {
+        var d;
+        return (d = findPreceding(i, data0, data1, key)) ? {startAngle: d.endAngle, endAngle: d.endAngle}
+                : (d = findFollowing(i, data0, data1, key)) ? {startAngle: d.startAngle, endAngle: d.startAngle}
+                : null;
+    }
+
+    // Find the element in data0 that joins the highest preceding element in data1.
+    function findPreceding(i, data0, data1, key) {
+        var m = data0.length;
+        while (--i >= 0) {
+            var k = key(data1[i]);
+            for (var j = 0; j < m; ++j) {
+                if (key(data0[j]) === k) return data0[j];
+            }
+        }
+    }
+
+    // Find the element in data0 that joins the lowest following element in data1.
+    function findFollowing(i, data0, data1, key) {
+        var n = data1.length, m = data0.length;
+        while (++i < n) {
+            var k = key(data1[i]);
+            for (var j = 0; j < m; ++j) {
+                if (key(data0[j]) === k) return data0[j];
+            }
+        }
+    }
+
+    function arcTween(d) {
+        var i = d3.interpolate(this._current, d);
+        this._current = i(0);
+        return function(t) { return arc(i(t)); };
+    }
+
+</script>
+
+</body>
+</html>
